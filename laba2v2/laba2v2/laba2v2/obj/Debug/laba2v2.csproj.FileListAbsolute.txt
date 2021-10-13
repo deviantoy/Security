@@ -1,0 +1,10 @@
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2v2.csproj.AssemblyReference.cache
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2.Form1.resources
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2v2.Properties.Resources.resources
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2v2.csproj.GenerateResource.cache
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2v2.csproj.CoreCompileInputs.cache
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\bin\Debug\laba2v2.exe.config
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\bin\Debug\laba2v2.exe
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\bin\Debug\laba2v2.pdb
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2v2.exe
+G:\4 course\Data Protection\laba2v2\laba2v2\laba2v2\obj\Debug\laba2v2.pdb
